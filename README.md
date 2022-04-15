@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rea Ahuja!
 - 👀 I’m a grade 12 high school student passionate about software development!
 - 🌱 I’m currently flourshing my knowledge in development with Java!
-- 🏢 I'm a software programming instructor at Wiz Robotics!
+- 🏢 I'm a Java & Python programming instructor at Wiz Robotics!
 - 📫 You can connect with me by sending an email to reaahuja21@gmail.com!
 
 <!---
