@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Rea Ahuja!
-- 👀 I’m a computer engineering student at UofT who is passionate about software development!
-- 🌱 I’m currently advancing my knowledge in development with Java!
-- 🏢 I was a Java & Python programming instructor at Wiz Robotics!
-- 📫 You can connect with me by sending an email to reaahuja21@gmail.com!
+Hi, I’m Rea Ahuja! I’m a computer engineering student at UofT who is passionate about software development!
+
+I'm familiar with the following languages: 
+- C
+- C++
+- Java
+- Python
+- HTML
+- CSS
+- SQL
+
+📫 You can connect with me by sending an email to reaahuja21@gmail.com!
 
 <!---
 reaahuja/reaahuja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
