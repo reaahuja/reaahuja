@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rea Ahuja!
 - 👀 I’m a computer engineering student at UofT who is passionate about software development!
 - 🌱 I’m currently advancing my knowledge in development with Java!
-- 🏢 I'm a Java & Python programming instructor at Wiz Robotics!
+- 🏢 I was a Java & Python programming instructor at Wiz Robotics!
 - 📫 You can connect with me by sending an email to reaahuja21@gmail.com!
 
 <!---
