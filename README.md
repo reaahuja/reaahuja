@@ -8,6 +8,7 @@ I'm familiar with the following languages:
 - HTML
 - CSS
 - SQL
+- MATLAB
 
 📫 You can connect with me by sending an email to reaahuja21@gmail.com!
 
