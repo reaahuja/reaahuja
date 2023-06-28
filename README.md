@@ -24,7 +24,7 @@
 
 ## <div align="center">Current Work</div>
 
-<div align="center">I'm currently completing projects (in private repositories) as an Undergraduate Software Researcher at UofT and as a electrical design team member in UTAT (UofT's Aerospace engineering team).</div>
+<div align="center">I'm currently completing projects (in private repositories) as an Undergraduate Software Researcher at UofT and as a electrical design team member in UofT's Aerospace Team.</div>
 
 ### <div align="center">Contact Me</div>
 
