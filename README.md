@@ -26,6 +26,6 @@
 
 <div align="center">I'm currently completing projects (in private repositories) as an Undergraduate Software Researcher at UofT and as a electrical design team member in UTAT (UofT's Aerospace engineering team).</div>
 
-## <div align="center">Contac Me</div>
+### <div align="center">Contact Me</div>
 
-<div align="center">Reach out to me by connecting on [Linkedln](https://www.linkedin.com/in/rea-ahuja/) or sending me an email at reaahuja21@gmail.com</div>
+<div align="center">Reach out to me by connecting on <a href="https://www.linkedin.com/in/rea-ahuja/">LinkedIn</a> or sending me an email at reaahuja21@gmail.com</div>
