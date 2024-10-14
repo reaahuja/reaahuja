@@ -1,6 +1,6 @@
 
 # <div align="center">Hi there! I'm [Rea](https://reaahuja.github.io/WebPortfolio/).</div>
-<div align="center">I'm a second-year Computer Engineering student at the University of Toronto interested in <strong>embedded, control and communication systems</strong>, and an individual who loves to explore engineering concepts and conquer challenges!</div>
+<div align="center">I'm a third-year Computer Engineering student at the University of Toronto interested in <strong>machine learning, embedded systems and computer hardware</strong>, and an individual who loves to explore engineering concepts and conquer challenges!</div>
 
 ## <div align="center">Languages and Tools</div>
 <div align="center">
@@ -24,7 +24,7 @@
 
 ## <div align="center">Current Work</div>
 
-<div align="center">I'm currently completing projects (in private repositories) as an Undergraduate Software Researcher at UofT and as a electrical design team member in UofT's Aerospace Team.</div>
+<div align="center">I'm currently completing projects (in private repositories) as an Undergraduate Software Researcher at UofT and as a 3DOD developer for U of T's aUToronto design team.</div>
 
 ### <div align="center">Contact Me</div>
 
