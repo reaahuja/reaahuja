@@ -24,7 +24,7 @@
 
 ## <div align="center">Current Work</div>
 
-<div align="center">I'm currently completing projects (in private repositories) as an Undergraduate Software Researcher at UofT and as a 3DOD developer for U of T's aUToronto design team.</div>
+<div align="center">I'm currently completing exciting projects as an Undergraduate Software Researcher at UofT, Backend Software Lead for U of T's Creative Computing Club and as a 3DOD developer for U of T's aUToronto design team.</div>
 
 ### <div align="center">Contact Me</div>
 
