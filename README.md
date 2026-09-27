@@ -1,6 +1,6 @@
 
 # <div align="center">Hi there! I'm [Rea](https://reaahuja.github.io/WebPortfolio/).</div>
-<div align="center">I'm a third-year Computer Engineering student at the University of Toronto interested in <strong>machine learning, embedded systems and computer hardware</strong>, and an individual who loves to explore engineering concepts and conquer challenges!</div>
+<div align="center">I'm a fourth-year Computer Engineering student at the University of Toronto interested in <strong>embedded and power systems, signals and systems, and computer hardware</strong>, and an individual who loves to explore engineering concepts and conquer challenges!</div>
 
 ## <div align="center">Languages and Tools</div>
 <div align="center">
